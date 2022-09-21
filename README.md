@@ -8,3 +8,5 @@ Step by Step when running program:
 4/ enter a number that you want to add to the array
 5/ enter a index number of the number you want to remove
 All modifications to the array will follow the order above. After each modification, the program will write the new array to different text files with correspoding names. 
+
+Screenshot link: https://github.com/duytng93/SCI_303_Assignment_1/issues/1#issue-1381633130
