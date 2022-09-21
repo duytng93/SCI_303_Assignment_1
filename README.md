@@ -1,5 +1,5 @@
 # SCI_303_Assignment_1
-Run the code using Microsoft Visual Studio
+Run the "assignment 1.sln"  using Microsoft Visual Studio
 The File.txt need to be placed at the same folder with the Main.cpp file
 Step by Step when running program:
 1/ enter number to be checked 
